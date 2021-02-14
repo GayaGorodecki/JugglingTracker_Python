@@ -4,7 +4,7 @@ Python program using OpenCV which tracks juggling balls, calculates and displays
 Designed and built as a final project in Computer Vision academic course.
 
 
-### ScreenShots: *GIFs*
+### ScreenShots (*GIFs*):
 
 
 #### Overlay trajectories
