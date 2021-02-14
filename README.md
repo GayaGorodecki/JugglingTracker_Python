@@ -14,7 +14,4 @@ Designed and built as a final project in Computer Vision academic course.
 
 #### Velocity of the juggling balls
 
-![Velocity](https://media.giphy.com/media/CxjQbqcptXxnGEZmWQ/giphy.gif)
-
-
-https://media.giphy.com/media/qNjTPztIsg0PSl4LI7/giphy.gif
+![Velocity](https://media.giphy.com/media/qNjTPztIsg0PSl4LI7/giphy.gif)
