@@ -8,9 +8,11 @@ ScreenShots:
 *GIFs*
 
 
-## Overlay trajectories
+#### Overlay trajectories
+
 ![GIF](https://im5.ezgif.com/tmp/ezgif-5-4bceb3884515.gif)
 
 
-## Velocity of the juggling balls
+#### Velocity of the juggling balls
+
 ![GIF](https://im5.ezgif.com/tmp/ezgif-5-d2d46f75c03d.gif)
