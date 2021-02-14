@@ -15,4 +15,4 @@ ScreenShots:
 
 #### Velocity of the juggling balls
 
-![Velocity](https://im3.ezgif.com/tmp/ezgif-3-bc8d2795a5fd.gif)
+![Velocity](https://media.giphy.com/media/nv4vL13u33aCaReco2/giphy.gif)
