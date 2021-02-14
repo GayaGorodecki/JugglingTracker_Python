@@ -9,9 +9,9 @@ Designed and built as a final project in Computer Vision academic course.
 
 #### Overlay trajectories
 
-![Overlay trajectories](https://im5.ezgif.com/tmp/ezgif-5-4bceb3884515.gif)
+![Overlay trajectories](https://media.giphy.com/media/PYuUUzBUEfTHW6qaop/giphy.gif)
 
 
 #### Velocity of the juggling balls
 
-![Velocity](https://media.giphy.com/media/nv4vL13u33aCaReco2/giphy.gif)
+![Velocity](https://media.giphy.com/media/72OdDEwoV6bVkaU8qh/giphy.gif)
